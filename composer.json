@@ -1,0 +1,11 @@
+{
+    "require": {
+        "sami/sami": "3.2.1"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "SamiTest\\": "src/"
+        }
+    }
+}
