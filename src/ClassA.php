@@ -4,7 +4,7 @@ namespace SamiTest;
 
 /** 
  * @api
- * @property $someProp Some random property, only introduced to demonstrate a bug
+ * @property ClassA[] $someProp Some random property, only introduced to demonstrate a bug
  */
 class ClassA
 {
